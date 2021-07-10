@@ -1,5 +1,5 @@
 # Peer Graded Assignment: Course Project 2
-Source: https://www.coursera.org/learn/exploratory-data-analysis/peer/b5Ecl/course-project-2 (Status: 8 July 2016)
+Source: https://www.coursera.org/learn/exploratory-data-analysis/peer/b5Ecl/course-project-2 
 
 ***
 __Important Information__
